@@ -2,6 +2,9 @@
  
  Heroku:https://ariksapp.herokuapp.com
  
+ full site run by npm start in folder
+ 
+ 
  -	Client-side development used: HTML5, bootstrap, JavaScript(jQuery). 
 -	Server-side development used: Node.js with a MongoDB database. 
 -	Worked with GitHub & Heroku.
